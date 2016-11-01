@@ -10,7 +10,7 @@ import org.apache.solr.client.solrj.SolrQuery;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月18日 下午5:28:50
  * @version 1.0
  */

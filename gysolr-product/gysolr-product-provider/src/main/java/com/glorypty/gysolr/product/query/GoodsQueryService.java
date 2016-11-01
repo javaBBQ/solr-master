@@ -24,7 +24,7 @@ import com.glorypty.gysolr.product.domain.GoodsOrderProperty;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月18日 下午4:19:20
  * @version 1.0
  */

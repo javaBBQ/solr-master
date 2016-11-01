@@ -24,7 +24,7 @@ import com.glorypty.gysolr.common.solr.SolrServerFactory;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月14日 下午5:56:09
  * @version 1.0
  */

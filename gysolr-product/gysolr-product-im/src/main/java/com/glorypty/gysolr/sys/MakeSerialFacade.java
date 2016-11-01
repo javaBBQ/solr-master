@@ -8,7 +8,7 @@ package com.glorypty.gysolr.sys;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月24日 下午4:54:04
  * @version 1.0
  */

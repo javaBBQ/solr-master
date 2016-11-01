@@ -13,7 +13,7 @@ import com.glorypty.gysolr.common.domain.Group;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月19日 上午10:30:48
  * @version 1.0
  */

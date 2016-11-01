@@ -26,7 +26,7 @@ import com.glorypty.gysolr.common.util.CheckData;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月14日 下午5:42:07
  * @version 1.0
  */

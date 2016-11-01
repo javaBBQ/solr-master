@@ -1,7 +1,7 @@
 package com.glorypty.gysolr.common.domain;
 /**
  * 
- * @author liujie
+ * @author yiwen
  * qq:854194341
  * 2015年7月15日
  * 分组详细信息

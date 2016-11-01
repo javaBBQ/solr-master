@@ -26,7 +26,7 @@ import com.glorypty.gysolr.product.index.GoodsIndexService;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月25日 下午3:12:01
  * @version 1.0
  */

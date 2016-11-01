@@ -11,7 +11,7 @@ import com.glorypty.gysolr.common.result.BaseResult;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月13日 下午3:57:40
  * @version 1.0
  */

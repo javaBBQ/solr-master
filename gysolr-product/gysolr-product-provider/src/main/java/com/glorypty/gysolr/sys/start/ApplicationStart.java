@@ -23,7 +23,7 @@ import com.glorypty.gysolr.product.index.GoodsIndexService;
 
 /**
  * 容器启动
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月14日 下午5:34:22
  * @version 1.0
  */

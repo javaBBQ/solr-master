@@ -17,7 +17,7 @@ import com.glorypty.gysolr.common.domain.BaseQuery;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月9日 下午8:06:12
  * @version 1.0
  */

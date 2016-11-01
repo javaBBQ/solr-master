@@ -18,7 +18,7 @@ import com.glorypty.gysolr.common.service.BaseIndexImpl;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2015年9月29日 下午3:05:43
  * @version 1.0
  */

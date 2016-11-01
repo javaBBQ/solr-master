@@ -9,7 +9,7 @@ package com.glorypty.gysolr.product.domain;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月19日 上午9:25:38
  * @version 1.0
  */

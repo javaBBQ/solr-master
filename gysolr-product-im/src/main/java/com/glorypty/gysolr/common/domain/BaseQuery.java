@@ -8,7 +8,7 @@ package com.glorypty.gysolr.common.domain;
 
 /**
  *
- * @author liujie 
+ * @author yiwen 
  * @Date 2016年5月10日 上午10:10:38
  * @version 1.0
  */
